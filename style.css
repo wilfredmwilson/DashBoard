@@ -1,5 +1,6 @@
 *{
 margin:0;
+
 }
 
 .flex-container{
@@ -127,16 +128,15 @@ margin:0;
 }
 .home
 {
-    width:27px;
+    width:22px;
     margin-top: 70px;
     margin-left: 19px;
     color: white;
 }
 .homee{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
     color: #f5f5f4;
-    position:relative;
     position:relative;
     margin-top: -28px;
     font-size: 20px;
@@ -144,36 +144,34 @@ margin:0;
 }
 .icons
 {
-    width:27px;
+    width:22px;
     margin-top: 20px;
     margin-left: 19px;
     color: white;
 }
 .icon-font{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
     color: #f5f5f4;
     position:relative;
-    position:relative;
-    margin-top: -28px;
-    font-size: 20px;
+    margin-top: -24px;
+    font-size: 14px;
     margin-left: 60px;
 }
 .settings
 {
-    width:27px;
+    width:22px;
     margin-top: 70px;
     margin-left: 19px;
     color: white;
 }
 .settingss{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
     color: #f5f5f4;
     position:relative;
-    position:relative;
     margin-top: -28px;
-    font-size: 20px;
+    font-size: 14px;
     margin-left: 60px;
 }
 .search-icon
@@ -218,7 +216,7 @@ margin:0;
     margin-left: 850px;
     display: flex;
     margin-top: -30px;
-    gap: 5px;
+    gap: 25px;
 }
 .pro
 {
@@ -228,7 +226,7 @@ margin:0;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size:14px;
     margin-top: 10px;
-    font-weight: 800;
+    font-weight: 600;
 }
 .profile-desciption
 {
@@ -259,6 +257,10 @@ margin:0;
 {
     margin:20px;
 }
+.inside-grid-desc{
+    
+    color:gray;
+}
 .star-eye
 {       
     display: flex;
@@ -274,7 +276,7 @@ margin:0;
     margin-left: -300px;
     margin-top: -30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
 }
 .heading2
 {
@@ -283,7 +285,7 @@ margin:0;
     margin-left: 760px;
     margin-top: -30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
 }
 .heading3
 {    
@@ -292,5 +294,27 @@ margin:0;
     margin-left: 760px;
     margin-top: 320px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
+}
+hr{
+    margin-top: -8px;
+    
+}
+
+.trending-desciption
+{
+ display: flex;
+ gap:10px;
+ margin-left: 20px;
+ margin-top: 29px;
+}
+.trend-pic
+{
+    width:30px;
+    
+}
+.trend-name{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:12px;
+   
 }
